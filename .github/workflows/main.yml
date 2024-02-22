@@ -1,4 +1,4 @@
-name: Get Feed
+name: Get Fee
 
 on:
   schedule:
